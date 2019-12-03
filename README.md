@@ -1,3 +1,0 @@
-# cryptography-labs
-
-Cryptography labs
